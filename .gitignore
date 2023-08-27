@@ -587,4 +587,4 @@ obj/
 *.userprefs
 .packages
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Java,Rider,Csharp,Android,XamarinStudio
+.DS_Store
