@@ -1,11 +1,11 @@
 <Project Sdk="Xamarin.Legacy.Sdk/0.2.0-alpha4">
     <PropertyGroup>
-        <TargetFramework>net6.0-android</TargetFramework>
+        <TargetFrameworks>monoandroid13.0;net6.0-android</TargetFrameworks>
         <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <GenerateRuntimeConfigurationFiles>false</GenerateRuntimeConfigurationFiles>
         <Version>0.1.0</Version>
         <Title>RootBeer for .NET6 and MonoAndroid 13.0</Title>
         <NoWarn>$(NoWarn);BG8403</NoWarn>

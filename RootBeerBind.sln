@@ -16,13 +16,18 @@ Global
 		{B1B8AF72-3512-4F15-967A-047BE6700E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B8AF72-3512-4F15-967A-047BE6700E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B8AF72-3512-4F15-967A-047BE6700E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B8AF72-3512-4F15-967A-047BE6700E5D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{BEF8296B-39A0-4ACC-B900-B5376EA8001E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEF8296B-39A0-4ACC-B900-B5376EA8001E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF8296B-39A0-4ACC-B900-B5376EA8001E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF8296B-39A0-4ACC-B900-B5376EA8001E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF8296B-39A0-4ACC-B900-B5376EA8001E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{01B16F06-CDDA-4E8D-BE77-B98B1C39F01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01B16F06-CDDA-4E8D-BE77-B98B1C39F01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B16F06-CDDA-4E8D-BE77-B98B1C39F01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B16F06-CDDA-4E8D-BE77-B98B1C39F01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B16F06-CDDA-4E8D-BE77-B98B1C39F01E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal

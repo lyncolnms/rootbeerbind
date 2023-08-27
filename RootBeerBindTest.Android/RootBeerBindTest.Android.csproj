@@ -10,6 +10,7 @@
         <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
     </PropertyGroup>
     <ItemGroup>
-      <ProjectReference Include="..\RootBeerBind\RootBeerBind.csproj" />
+      <PackageReference Include="RootBeerBind" Version="0.1.0" />
     </ItemGroup>
+
 </Project>
